@@ -1,0 +1,15 @@
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/ProxC.csproj.AssemblyReference.cache
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/ProxC.GeneratedMSBuildEditorConfig.editorconfig
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/ProxC.AssemblyInfoInputs.cache
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/ProxC.AssemblyInfo.cs
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/ProxC.csproj.CoreCompileInputs.cache
+/home/nit/Documents/c# projects/ProxC/ProxC/bin/Debug/net7.0/ProxC
+/home/nit/Documents/c# projects/ProxC/ProxC/bin/Debug/net7.0/ProxC.deps.json
+/home/nit/Documents/c# projects/ProxC/ProxC/bin/Debug/net7.0/ProxC.runtimeconfig.json
+/home/nit/Documents/c# projects/ProxC/ProxC/bin/Debug/net7.0/ProxC.dll
+/home/nit/Documents/c# projects/ProxC/ProxC/bin/Debug/net7.0/ProxC.pdb
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/ProxC.dll
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/refint/ProxC.dll
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/ProxC.pdb
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/ProxC.genruntimeconfig.cache
+/home/nit/Documents/c# projects/ProxC/ProxC/obj/Debug/net7.0/ref/ProxC.dll

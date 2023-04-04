@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YDNVKEIied4qv26yAHLs6T1uMsD2a51R7zHeOykc9mLRtb4OwzbxuYFA0+a1SHI0kFvoTDzIpot1rntwZUVccg==",
+  "success": true,
+  "projectFilePath": "/home/nit/Documents/c# projects/ProxC/ProxC/ProxC.csproj",
+  "expectedPackageFiles": [
+    "/home/nit/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
